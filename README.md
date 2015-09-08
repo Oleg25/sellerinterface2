@@ -1,2 +1,2 @@
-README for sellerinterface
+README for sellerinterface2
 ==========================
